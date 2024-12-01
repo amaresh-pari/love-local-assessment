@@ -1,0 +1,52 @@
+.container {
+    background-color: #1E293B;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 200px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    padding-left: 20px;
+}
+
+.icon {
+    height: 36px;
+    width: 36px;
+}
+
+.nav-icon {
+    height: 24px;
+    width: 24x;
+}
+
+.title {
+    color: #64748B;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 20px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.page-name {
+    color: #E2E8F0;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    margin-left: 10px;
+}
+
+.tile {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.selected-tile {
+    background-color: #0F172A;
+    box-shadow: 0 0 0 10px #0F172A;
+    margin-right: 15px;
+}

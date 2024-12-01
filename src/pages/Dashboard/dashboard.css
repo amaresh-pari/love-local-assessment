@@ -1,0 +1,71 @@
+.image-background {
+    height: 116px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.banner-text {
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.sub-text {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #475569;
+}
+
+.page-content {
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.team {
+    height: 36px;
+    width: 116px;
+}
+
+.top-content-wrap {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.filter-icon {
+    height: 14px;
+    width: 16px;
+}
+
+.date-wrap {
+    display: flex;
+    flex-direction: row;
+}
+
+.sales-card-wrap {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.loading {
+    display: flex;
+    margin-top: 20%;
+    align-items: center;
+    justify-content: center;
+}

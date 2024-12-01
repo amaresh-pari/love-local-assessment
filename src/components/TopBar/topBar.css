@@ -1,0 +1,41 @@
+.top-container {
+    background-color: #ffff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 10px;
+    padding-right: 50px;
+    margin: -5px;
+}
+
+.icon {
+    height: 32px;
+    width: 32px;
+    margin-right: 10px;
+}
+
+.line {
+    border: 0.5px solid #E2E8F0;
+    height: 24px;
+    margin-right: 10px;
+}
+
+.user {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.arrow-icon {
+    width: 11px;
+    height: 7px;
+    margin-left: 5px;
+}
+
+.name {
+    color: #475569;
+    font-weight: 500;
+    font-size: 14px;
+}
